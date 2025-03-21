@@ -17,7 +17,7 @@ Desenvolver uma aplicação **Frontend** utilizando **React**, com um fluxo de a
   - O **token** deve ser armazenado no `localStorage ou sessão` (ou outro método de sua escolha).
   - O usuário deve ser redirecionado para a tela de **listagem de vagas**.
   - Deve haver a opção de **logout**, que apague o token e redirecione para o login.
-  - Todas as rotas do CRUD, estão protegidas, sendo necessário mandar o JWT no Header
+  - Todas as rotas do CRUD, estão protegidas, sendo necessário mandar o JWT Bearer no Header
 ---
 
 ### 2. Tela de Cadastro de Vagas
